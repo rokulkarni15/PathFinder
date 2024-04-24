@@ -1,9 +1,10 @@
-package frontend;
-
-import backend.Dijkstra;
-import backend.AStar;
+package ui;
 
 import javax.swing.*;
+
+import algorithms.AStar;
+import algorithms.Dijkstra;
+
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
