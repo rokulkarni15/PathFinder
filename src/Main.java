@@ -1,8 +1,8 @@
-import backend.Dijkstra;
-import backend.AStar;
-import frontend.PathfindingGrid;
-
 import javax.swing.*;
+
+import algorithms.AStar;
+import algorithms.Dijkstra;
+import ui.PathfindingGrid;
 
 public class Main {
     public static void main(String[] args) {
